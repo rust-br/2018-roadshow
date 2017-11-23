@@ -31,8 +31,8 @@ E nesta issue você pode verificar uma lista de tarefas para te ajudar a organiz
 
 ### Lista de verificação
 
-- [ ] Participou da primeira chamada de treinamento (iniciativa, não técnica)
-- [ ] Participou da segunda chamada de treinamento (Rust, técnica)
+- [ ] Primeira chamada de treinamento (iniciativa, não técni
+- [ ] Segunda chamada de treinamento (Rust, técnica)
 - [ ] Página de evento no site do programa [Mozilla Reps](https://reps.mozilla.org)
 - [ ] Evento listado no site do Rust Roadshow
-- [ ] Reportado
+- [ ] Report
