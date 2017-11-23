@@ -1,8 +1,8 @@
 Olá Rustáceo,
 
-Obrigado por se envolver em nossa missão para evangelizar Rust pelo Brasil liderando uma oficina de Rust em sua comunidade local. Ao criar esta issue você vai disponibilizar dados abertamente por meio do nosso repositório que vai permitir mapear, apoiar e reconhecer o seu trabalho aqui nesta iniciativa e na comunidade RustBR.
+*Obrigado por juntar-se a nós nessa missão para evangelizar Rust pelo Brasil liderando uma oficina de Rust em sua comunidade local. Ao criar esta issue você vai disponibilizar dados abertamente por meio do nosso repositório que vai permitir mapear, apoiar e reconhecer o seu trabalho aqui nesta iniciativa e na comunidade RustBR.*
 
-Os dados necessários para preencher essa issue são:
+**Os dados necessários para preencher essa issue são:**
 
 - Identificação do mobilizador Rust
 - Planejamento da sua oficina de Rust
@@ -35,3 +35,4 @@ Twitter: @
 - [ ] Participou da segunda chamada de treinamento (Rust, técnica)
 - [ ] Página de evento no site do programa [Mozilla Reps](https://reps.mozilla.org)
 - [ ] Evento listado no site do Rust Roadshow
+- [ ] Reportado
