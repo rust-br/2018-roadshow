@@ -1,14 +1,17 @@
 # Rust Brazil Mobilizers’ Handbook
 *(Manual de Mobilizadores do Rust Brasil)*
+
 Caro Mobilizador Rust,
+
 Seja bem-vindo! **A partir de agora você faz parte da nossa missão.** Nós somos pensadores e apaixonados por tecnologia trabalhamos juntos para manter a Internet saudável, aberta e acessível a todos, acreditamos que o trabalho comunitário em uma plataforma de código aberto é essencial para nosso crescimento pessoal e para o futuro da sociedade.
+
 As pessoas são a essência da Mozilla. Colocamos as pessoas em primeiro lugar e fazemos o nosso melhor para reconhecer, valorizar e respeitar a diversidade dos nossos contribuidores globais. O Projeto Mozilla recebe contribuições de todos que compartilham nossos objetivos e querem colaborar de maneira saudável e construtiva dentro da nossa comunidade. Sendo assim, adotamos este [**código de conduta**](https://www.mozilla.org/pt-BR/about/governance/policies/participation/) a fim de nos ajudar a criar uma experiência segura e positiva para todos da comunidade.
+
 Nós criamos esse manual ou handbook *(como é conhecido)* para garantir que você esteja alinhado com a Mozilla, o experimento e a nossa estratégia, além de dar orientações que lhe apoiará durante seu trabalho conosco.
 
 **Obrigado por  juntar-se a nós! 🎉**
-*2018 Rust Mobilizers Experiment team*
-Mozilla Brasil
-[https://mozillabr.org](https://mozillabr.org)
+
+*2018 Rust Mobilizers Experiment team, [Mozilla Brasil](https://mozillabr.org)*
 
 ----------
 # O experimento
@@ -16,8 +19,11 @@ Mozilla Brasil
 
 
 Este experimento é o nosso próximo passo após organizar [3 oficinas de Rust no Brasil](https://www.eventbrite.com.br/o/mozilla-brasil-14167163781) apoiadas pela Mozilla e com envolvimento direto de voluntários das comunidades Mozilla e Rust.
+
 A [Mozilla foi a primeira a investir em Rust](https://research.mozilla.org/rust/) e há anos empodera e usa a linguagem no [Servo](https://github.com/servo/servo) e no Firefox. A Mozilla está apostando em Rust para inovar o produto e [garantir segurança de ponta no navegador](https://blog.mozilla.org/firefox/put-trust-rust-shipping-now-firefox/). Não restam dúvidas de que Rust é uma linguagem importante para o futuro da web pois a faz segura, rápida e incrível.
+
 Assim como a Mozilla está radiante ao usar Rust para inovar o Firefox nós queremos garantir que mais programadores **conheçam, usem e evangelizem Rust no Brasil**. Nós iremos apoiar um grupo de programadores Rust durante o experimento ***2018 Rust Mobilizers Experiment*** que empoderará mobilizadores a criarem coisas incríveis com Rust por meio de oficinas pequenas, locais e apoiadas pela Mozilla ao ensinar e engajar programadores em uma linguagem de programação de sistemas que roda incrivelmente rápido, previne falhas de segmentação, e garante segurança entre threads.
+
 Na próxima sessão você entenderá como funciona a nossa proposta de oficina de Rust.
 
 ----------
@@ -169,8 +175,6 @@ Se preferir você pode fazer [download do pacote de arquivos vetoriais](https://
 Falar sobre o sucesso e relatar como foi a sua oficina de Rust. Isto permite inspirar outros a se juntar a sua comunidade local, organizar novas oficinas, envolver-se em Rust e nas atividades que você fez lá.
 Antes do evento organize com sua equipe quem será o responsável por documentar tudo o que acontece na oficina, tenha em mente essas questões para discutir com sua equipe:
 
-![giphy.gif](https://lh6.googleusercontent.com/5QWGIr5owl0IVmXVStJR6fusmW0fcrQPcRV6XKDBOyOlNvnIa8BfDd7-pMe4_ARMGQ5VqfMwydplc7rTE2naOqLApxX9YnOuUj84J0XsZsar69DUSB4shEm-Yv4m_1J3350dXwyp)
-
 - Quem registrará o que acontecer no evento?
 - Quais momentos da oficina são essenciais para capturar?
 - Quais redes têm mais sentido para informar a sua comunidade? (Medium, Blog post, Twitter, Facebook)
@@ -188,11 +192,14 @@ Aqui temos algumas dicas do que sua equipe pode fazer no dia da oficina para col
 Mantenha as escolhas de privacidade dos participantes em mente ao gravar ou tirar fotos em eventos. Muitos eventos oferecem pulseiras ou etiquetas com cores diferentes onde cada cor representa diferentes opções de privacidade.
 *Veja essas e outras dicas em* [*Documenting & Reporting por Open Leaders*](https://mozilla.github.io/open-leadership-training-series/articles/running-awesome-community-events/documenting-and-reporting/)*.*
 
+![giphy.gif](https://lh6.googleusercontent.com/5QWGIr5owl0IVmXVStJR6fusmW0fcrQPcRV6XKDBOyOlNvnIa8BfDd7-pMe4_ARMGQ5VqfMwydplc7rTE2naOqLApxX9YnOuUj84J0XsZsar69DUSB4shEm-Yv4m_1J3350dXwyp)
 
 # Boa sorte!
 
 Não esqueça de fazer sua oficina ser uma festa divertida (com moderação) e acolhedora!
+
 **Anytime via** [**rust@mozillabr.org**](mailto:rust@mozillabr.org).
+
 *(a qualquer momento)*
 
 ![giphy.gif](https://lh5.googleusercontent.com/3hyKpC9AUJYzOF6kbbIQc55harTrQLKEP0TskjKtsLfaTNPbQ6qCUBmWOR3Z630yzqb8k6jSneTxAKX3gZZRTjqg-I6RINMabt4fOKlHrTswU7-l1AST0UVimb-JtlQ5SVD5ewxA)
