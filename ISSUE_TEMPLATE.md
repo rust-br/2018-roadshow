@@ -20,6 +20,7 @@ E nesta issue você pode verificar uma lista de tarefas para te ajudar a organiz
  - Local (nome, endereço):
  - Data & Hora:
  - Link de inscrições:
+ - Quantidade de participantes esperados: 
  - Fuso horário:
 
 ### Lista de tarefas
