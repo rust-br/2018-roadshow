@@ -10,9 +10,9 @@ Olá Rustáceo,
 E nesta issue você pode verificar uma lista de tarefas para te ajudar a organizar as tarefas, e ajudar a equipe ver o progresso e te apoiar pontualmente no que precisar.
 
 ### Você, mobilizador
-Nome e sobrenome:
-Perfil no [Mozillians](https://mozillians.org/pt-BR/) ou [Rustaceans](https://rustaceans.org):
-Twitter: @ 
+- Nome e sobrenome:
+- Perfil no [Mozillians](https://mozillians.org/pt-BR/) ou [Rustaceans](https://rustaceans.org):
+- Twitter: @ 
 
 ### Sua oficina de Rust
 
