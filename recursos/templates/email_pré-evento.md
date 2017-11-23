@@ -22,6 +22,7 @@ Separei aqui alguns links de algumas promoções de app de solicitar Táxi, Uber
 E não se esqueça de nos avisar se você não planeja mais ir ao workshop, temos uma longa lista de pessoas aguardando uma oportunidade para participar! É só responder este e-mail!
 
 **Até!**
+
 No dia estaremos online no Twitter da Mozilla Brasil (@mozillabrasil) para bombar a hashtag #rustlang, acompanhe e tweet muito!
 
 Tem alguma dúvida ou posso ajudar em mais alguma coisa? Não hesite em perguntar, estou aqui para isso :)
