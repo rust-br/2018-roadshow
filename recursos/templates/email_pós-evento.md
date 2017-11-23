@@ -1,4 +1,5 @@
 Heey,
+
 Agradeço novamente pela presença no sábado em nosso workshop! Espero que você tenha aproveitado, se divertido e que o encontro possa ter somado aprendizados e criado oportunidades à você!
 
 **Pesquisa de Satisfação**
@@ -29,4 +30,5 @@ Huuum, quer saber quando será o próximo workshop da Mozilla? Rá!
 Não esqueça de mostrar o que você fez durante o workshop no Twitter! Use #rustlang e mostre as coisas incríveis que você criou, seja o seu perfil no Rustaceans, um crates.io, ou até mesmo o seu repositório de projetos!
 
 Até a próxima,
+
 Comunidade Rust & Mozilla
