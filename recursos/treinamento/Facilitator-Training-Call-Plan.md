@@ -8,9 +8,13 @@ The second call focuses on how to run the workshop itself and technical details 
 # Roadshow Training Call Plan
 
 **Host:** Geraldo Barros
+
 **Duration**: 1h15m
+
 **Data and time**: *It will be set using Doodle*
+
 **Tool**: [*Jitsi Meet Rust Roadshow room*](https://meet.jit.si/rustroadshow)
+
 **Agenda**
 
 - Welcome all and thank them for participating ask participants to introduce themselves in one minute
@@ -25,12 +29,17 @@ The second call focuses on how to run the workshop itself and technical details 
 - Swag
 - Reporting
 - Next call
+
 # Technical Training Call Plan
 
 **Host:** Leonardo Yvens
+
 **Duration**: 1h30m
+
 **Data and time**: *It will be set using Doodle*
+
 **Tool**: [*Jitsi Meet Rust Roadshow room*](https://meet.jit.si/rustroadshow)
+
 **Agenda**
 
 - Welcome all and thank them for participating, ask participants to introduce themselves in one minute (10min).
