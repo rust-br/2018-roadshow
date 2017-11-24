@@ -7,10 +7,11 @@ Nós garantiremos que mais programadores conheçam, usem e evangelizem Rust no B
 ***Este documento (o arquivo README.md) é um hub para fornecer algumas informações sobre a iniciativa. Navegue para uma das seções abaixo, ou simplesmente role para baixo para descobrir mais.***
 
 ## Índice
+* [Bem-vindo!](#)
 * [O que nós estamos fazendo? (E porque?)](#)
-* [Quem somos](#)
-* [O que nós precisamos](#)
-* [Como você pode se envolver](#)
-* [Entrar em contato](#)
-* [Descubra mais](#)
+* [Participe](#)
+* [Contribuindo](#)
+* [Código de Conduta](#)
+* [Créditos](#)
+* [Entre em contato](#)
 * [Glossário](#)
