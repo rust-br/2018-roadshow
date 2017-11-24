@@ -1,0 +1,2 @@
+# Código de Conduta
+Nós adotamos as [Diretrizes para participação na comunidade da Mozilla](https://www.mozilla.org/pt-BR/about/governance/policies/participation/) como **nosso principal código de conduta e exigimos a todos que participam a concordar e aderir a estas [Diretrizes para Participação na Comunidade](https://www.mozilla.org/pt-BR/about/governance/policies/participation/)** a fim de nos ajudar a criar uma experiência segura e positiva para todos da comunidade.
