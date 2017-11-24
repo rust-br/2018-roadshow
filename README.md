@@ -1,4 +1,16 @@
-# Rust Roadshow Brasil 2018
-Mobilizadores e oficinas de Rust em todo o Brasil. Hooray.
+Rust Roadshow Brasil 2018
+======================
+***Bem-vindo! :tada: Bienvenido! :confetti_ball: Welcome! :balloon::balloon::balloon:***
 
-![Logo - Rust Roadshow Brasil 2018](https://raw.githubusercontent.com/rust-br/2018-rust-roadshow/master/recursos/design/Imagem%20(capa%20para%20p%C3%A1gina%20de%20evento)%20para%20Facebook%20(1920x1080px)%402x.png)
+Nós garantiremos que mais programadores conheçam, usem e evangelizem Rust no Brasil por meio do engajamento mobilizadores e organização comunitária de um circuito de oficinas em 2018.
+
+***Este documento (o arquivo README.md) é um hub para fornecer algumas informações sobre a iniciativa. Navegue para uma das seções abaixo, ou simplesmente role para baixo para descobrir mais.***
+
+## Índice
+* [O que nós estamos fazendo? (E porque?)](#)
+* [Quem somos](#)
+* [O que nós precisamos](#)
+* [Como você pode se envolver](#)
+* [Entrar em contato](#)
+* [Descubra mais](#)
+* [Glossário](#)
