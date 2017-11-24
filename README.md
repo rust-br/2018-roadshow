@@ -65,7 +65,7 @@ Nós adotamos as [Diretrizes para participação na comunidade da Mozilla](https
 
 A time do experimento tem a responsabilidade de manter o projeto, documentar todo o funcionamento do projeto abertamente, criar e obter recursos para o experimento e as iniciativas diretamente relacionadas, apoiar os mobilizadores, criar estratégias para promover o experimento e as atividades decorrentes dele, mentorar novos contribuidores, fazer chamadas regulares com a comunidade e outras responsabilidades relacionadas as tarefas principais supracitadas.
 
-**Equipe atual**
+**Time atual**
 
 - Cynthia Pereia / [@cynthiapereira](https://github.com/cynthiapereira)
 - Thiago Policena [@thiagopolicena](https://github.com/thiagopolicena)
