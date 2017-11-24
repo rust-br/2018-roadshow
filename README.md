@@ -7,14 +7,14 @@ Nós garantiremos que mais programadores conheçam, usem e evangelizem Rust no B
 ***Este documento (o arquivo README.md) é um hub para fornecer algumas informações sobre a iniciativa. Navegue para uma das seções abaixo, ou simplesmente role para baixo para descobrir mais.***
 
 ## Índice
-* [Bem-vindo!](#)
-* [O que nós estamos fazendo? (E porque?)](#)
-* [Participe](#)
-* [Contribua](#)
-* [Código de Conduta](#)
-* [Equipe](#)
-* [Contato](#)
-* [Glossário](#)
+* [Bem-vindo!](#rust-roadshow-brasil-2018-)
+* [O que nós estamos fazendo? (E porque?)](#o-que-nós-estamos-fazendo-e-porque)
+* [Participe](#participe)
+* [Contribua](#contribua)
+* [Código de Conduta](#código-de-conduta)
+* [Time](#time)
+* [Contato](#contato)
+* [Glossário](#glossário)
 
 # O que nós estamos fazendo? E porque?
 
