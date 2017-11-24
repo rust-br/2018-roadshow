@@ -10,7 +10,7 @@ Nós garantiremos que mais programadores conheçam, usem e evangelizem Rust no B
 * [Bem-vindo!](#)
 * [O que nós estamos fazendo? (E porque?)](#)
 * [Participe](#)
-* [Contribuindo](#)
+* [Contribua](#)
 * [Código de Conduta](#)
 * [Créditos](#)
 * [Contato](#)
