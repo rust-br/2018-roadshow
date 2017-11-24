@@ -16,7 +16,7 @@ Nós garantiremos que mais programadores conheçam, usem e evangelizem Rust no B
 * [Contato](#)
 * [Glossário](#)
 
-# [O que nós estamos fazendo? (E porque?)]
+# O que nós estamos fazendo? E porque?
 
 Este experimento é o nosso próximo passo após organizar [3 oficinas de Rust no Brasil](https://www.eventbrite.com.br/o/mozilla-brasil-14167163781) apoiadas pela Mozilla e com envolvimento direto de voluntários das comunidades Mozilla e Rust.
 
