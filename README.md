@@ -1,4 +1,4 @@
-Rust Roadshow Brasil 2018
+Rust Roadshow Brasil 2018 🇧🇷
 ======================
 ***Bem-vindo! :tada: Bienvenido! :confetti_ball: Welcome! :balloon::balloon::balloon:***
 
