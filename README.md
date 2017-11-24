@@ -13,5 +13,6 @@ Nós garantiremos que mais programadores conheçam, usem e evangelizem Rust no B
 * [Contribua](#)
 * [Código de Conduta](#)
 * [Créditos](#)
+* [Equipe](#)
 * [Contato](#)
 * [Glossário](#)
