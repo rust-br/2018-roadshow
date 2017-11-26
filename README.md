@@ -27,7 +27,7 @@ Assim como a Mozilla está radiante ao usar Rust para inovar o Firefox nós quer
 *Estamos ansiosos para ver você mergulhar em Rust conosco e criar coisas incríveis em um de nossos workshops pelo Brasil!*
 
 ## Onde
-**Clique aqui para encontrar um workshop próximo de você! (disponível em breve)**
+**[Clique aqui](https://rust-br.github.io/2018roadshow/) para encontrar um workshop próximo de você!**
 
 ## Você aprenderá
 - O que é Rust (o que é, como funciona, benefícios, casos, bibliotecas, aplicações, benchmarks);
