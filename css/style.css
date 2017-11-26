@@ -1,0 +1,125 @@
+*
+{font-family: 'Fira Sans', sans-serif;}
+.bold{font-weight:bold;}
+.italic{font-style: italic;}
+.oblique{font-style: oblique;}
+
+body {font-family: 'Fira Sans', sans-serif; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #333; overflow: auto;
+background: #ffffff;
+}
+
+body, html {
+  height: 100%;
+}
+.wrapper {
+  box-sizing: border-box; 
+  height: 100%; 
+}
+a {
+  border-bottom: 3px solid #8eda00;
+  color: #333; 
+  text-decoration: none; 
+}
+a:hover {
+  color: #0068FF
+}
+p {
+  font-weight: 200; 
+  font-size: 20px;
+}
+.container {
+  margin: 0 auto; 
+  max-width: 90%; 
+  padding: 75px 10px 50px; 
+  overflow: auto;
+  width: 700px; 
+}
+.container > header {
+  margin: 0 auto;
+  padding: 0;
+}
+.container > header {
+  text-align: center;
+}
+.container > header span {
+  display: block;
+  font-size: 60%;
+  opacity: 0.5;
+  padding: 0 0 0.6em 0.1em;
+}
+
+article {
+  padding: 20px;
+}
+article::before {
+  color: #8eda00;
+  content: '\2B27\2B43\2B28';
+  font-size: 24px;
+  position: relative;
+  top: 0;
+  left: -25px;
+}
+article::after {
+  color: #8eda00;
+  content: '\2B26\2B37\2B25';
+  float: right;
+  font-size: 44px;
+  position: relative;
+  top: -15px;
+}
+
+hr {
+  border-bottom: 3px solid #0068FF;
+}
+
+.meta { 
+  font-family: 'Fira Sans', sans-serif; 
+  font-size: 11px; 
+  letter-spacing: .15em;
+  text-transform: uppercase;
+}
+.meta a:hover {
+  color: #333;
+}
+
+.inline-list {
+  list-style: none; 
+  line-height: 1em;
+  margin: 0; 
+  padding: 0;
+}
+.inline-list li {
+  display: inline-block;
+}
+
+footer ul li { display: block; width: 100%;}
+footer ul li a { 
+  border-bottom: 3px solid #8eda00;
+  display: block;
+  width: 100%;
+  color: #7dc100;
+  text-align: center;
+  padding: 15px 10px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.4em;
+}
+footer ul li a:hover {
+  background: #9ff400; 
+}
+
+
+@media screen and (max-width: 550px) {
+  
+  footer { 
+    display: block; 
+    padding: 15px 25px; 
+    color: #0068FF; 
+    text-align: center;
+    font-size: 1.4em;
+    font-weight: bold;
+    line-height: : 30px;
+    text-decoration: none;
+  }
+  footer { display: block; }
+}
