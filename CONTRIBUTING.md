@@ -19,8 +19,12 @@ Neste guia há conjunto de diretrizes para contribuir com as iniciativas deste e
 Nós adotamos as [Diretrizes para participação na comunidade da Mozilla](https://www.mozilla.org/pt-BR/about/governance/policies/participation/) como **nosso principal código de conduta e exigimos a todos que participam a concordar e aderir a estas [Diretrizes para Participação na Comunidade](https://www.mozilla.org/pt-BR/about/governance/policies/participation/)** a fim de nos ajudar a criar uma experiência segura e positiva para todos em todas as atividades dessa iniciativa.
 
 ## Como posso contribuir
+Há muitas formas de contribuir com a iniciativa, nós mapeamos algumas abaixo, mas você está convidado(a) a [líderar novas ideias e iniciativas](#ideias-e-iniciativas) com a nossa equipe.
 
 ### Oficina de Rust
+#### Requisitos
+
+#### Oficina
 
 ### Desenvolvimento Web
 
