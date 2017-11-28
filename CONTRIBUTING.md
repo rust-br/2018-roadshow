@@ -27,6 +27,7 @@ Estamos à procura de pessoas dedicadas e enérgicas para participar da equipe d
 * Participar de 2-3 chamadas e reuniões de treinamento com a equipe
 #### Requisitos
 * Ser programador Rust
+* Ser comunicativo
 * Ser educado
 * Ser paciente
 #### Começando
