@@ -32,8 +32,8 @@ Estamos à procura de pessoas dedicadas e enérgicas para participar da equipe d
 #### Começando
 1. Preencher o formulário de inscrições com suas informações básicas e concordar com as responsabilidades e requisitos do mobilizador Rust.
 2. Participe das [chamadas de treinamento](https://github.com/rust-br/2018roadshow/tree/master/recursos/Facilitator%20Training%20Call).
-3. Estudar o [Rust Brazil Mobilizers’ Handbook](https://github.com/rust-br/2018roadshow/tree/master/recursos/Rust%20Brazil%20Mobilizers%E2%80%99%20Handbook)
-4. Organizar oficina de Rust na sua cidade seguindo as orientações fornecidas por meio das chamadas de treinamento e o handbook do mobilizador Rust.
+3. Estudar o [Rust Brazil Mobilizers’ Handbook](https://github.com/rust-br/2018roadshow/tree/master/recursos/Rust%20Brazil%20Mobilizers%E2%80%99%20Handbook).
+4. Organizar oficina de Rust na sua cidade seguindo as orientações fornecidas por meio das [chamadas de treinamento](https://github.com/rust-br/2018roadshow/tree/master/recursos/Facilitator%20Training%20Call) e o [Rust Brazil Mobilizers’ Handbook](https://github.com/rust-br/2018roadshow/tree/master/recursos/Rust%20Brazil%20Mobilizers%E2%80%99%20Handbook) do mobilizador Rust.
 5. Apresentar planejamento da sua oficina organizada por meio de uma [nova issue](https://github.com/rust-br/2018roadshow/issues/new) no GitHub.
 
 ### Desenvolvimento Web
