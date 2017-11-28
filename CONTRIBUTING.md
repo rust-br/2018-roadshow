@@ -9,7 +9,7 @@ Neste guia há conjunto de diretrizes para contribuir com as iniciativas deste e
 
 [Código de Conduta](#)
 
-[How Can I Contribute?](#)
+[Como posso contribuir?](#)
   * [Organizar oficinas de Rust](#)
   * [Desenvolver o site do projeto](#)
   * [Criar novos recursos](#)
