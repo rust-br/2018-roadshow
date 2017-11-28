@@ -23,8 +23,8 @@ Há muitas formas de contribuir com a iniciativa, nós mapeamos algumas abaixo, 
 
 ### Oficina de Rust
 Estamos à procura de pessoas dedicadas e enérgicas para participar da equipe de mobilizadores. Aqui tem algumas das coisas divertidas que você fará nessa equipe:
-* Organizar, liderar e reportar oficinas de Rust na sua cidade de 2-4/fev/2018
-* Participar de 2-3 chamadas e reuniões de treinamento com a equipe
+* Organizar, liderar e reportar oficinas de Rust na sua cidade de 2-4/fev/2018.
+* Participar de 2-3 chamadas e reuniões de treinamento com o [time](https://github.com/rust-br/2018roadshow#time).
 #### Requisitos
 * Ser programador Rust
 * Ser comunicativo
