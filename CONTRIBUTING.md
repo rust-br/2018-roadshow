@@ -7,13 +7,13 @@ Neste guia há conjunto de diretrizes para contribuir com as iniciativas deste e
 
 ## Índice
 
-[Código de Conduta](#)
+[Código de Conduta](#código-de-conduta)
 
-[Como posso contribuir?](#)
-  * [Oficina de Rust](#)
-  * [Desenvolvimento Web](#)
-  * [Recursos](#)
-  * [Ideias e iniciativas](#)
+[Como posso contribuir?](#como-posso-contribuir)
+  * [Oficina de Rust](#oficina-de-rust)
+  * [Desenvolvimento Web](#desenvolvimento-web)
+  * [Recursos](#recursos)
+  * [Ideias e iniciativas](#ideias-e-iniciativas)
 
 ## Código de Conduta
 Nós adotamos as [Diretrizes para participação na comunidade da Mozilla](https://www.mozilla.org/pt-BR/about/governance/policies/participation/) como **nosso principal código de conduta e exigimos a todos que participam a concordar e aderir a estas [Diretrizes para Participação na Comunidade](https://www.mozilla.org/pt-BR/about/governance/policies/participation/)** a fim de nos ajudar a criar uma experiência segura e positiva para todos em todas as atividades dessa iniciativa.
