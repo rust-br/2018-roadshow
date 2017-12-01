@@ -38,7 +38,16 @@ Estamos à procura de pessoas dedicadas e enérgicas para participar da equipe d
 5. Apresentar planejamento da oficina organizada por meio de uma [nova issue](https://github.com/rust-br/2018-roadshow/issues/new) no GitHub.
 
 ### Desenvolvimento Web
-
+Desenvolvedor web e Rustáceo? O nosso hotsite está precisando de melhorias na interface, tem novas ideias e maneiras de apresentar nossa lista de oficinas? Você pode nos ajudar.
+#### Começando
+1. O nosso hotsite está hospedado no GitHub Pages, dê uma olhada: https://rust-br.github.io/2018-roadshow.
+2. Faça um [fork](https://github.com/rust-br/2018-roadshow#fork-destination-box) para a sua conta no GitHub.
+3. Fique a vontade para alterar qualquer arquivo do hotsite, ou adicionar mais se necessário, os arquivos do mesmo estão no branch master e são: pasta "assets" e "css" e arquivo "index.html".
+4. Envie um [pull request](https://help.github.com/articles/about-pull-requests/) e aguarde aprovação do [time](https://github.com/rust-br/2018-roadshow#time).
 ### Recursos
-
+Os recursos são parte da engrenagem de uma campanha ou evento! Você tem novas ideias, melhorias ou deseja criar novos recursos? Veja como ajudar.
+#### Começando
+1. Dê uma olhada em nossos [recursos](https://github.com/rust-br/2018-roadshow/tree/master/recursos) já disponíveis.
+2. Você pode revisar, sugerir melhorias ou enviar novos recursos por meio de uma [issue](https://github.com/rust-br/2018-roadshow/issues/new) para sugestões, e [pull request](https://help.github.com/articles/about-pull-requests/) para revisões e novos recursos, o time irá cuidar de todo o resto.
 ### Ideias e iniciativas
+Se você tem nova ideias e pode liderá-las junto com nosso time, abra uma [issue](https://github.com/rust-br/2018-roadshow/issues/new) e conte para o nosso time o que é sua ideia, como funciona e como a mesma pode ajudar a campanha, e adicione qualquer outra informal adicional. A inovação é sempre bem vinda!
