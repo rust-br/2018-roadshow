@@ -1,4 +1,3 @@
-EM CONSTRUÇÃO
 # Guia de Contribuidores
 
 :+1::tada: Primeiro de tudo, obrigado por contribuir com nosso projeto! :tada::+1:
