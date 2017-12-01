@@ -92,11 +92,11 @@ hr {
   display: inline-block;
 }
 
-footer ul li { display: block; width: 100%;}
+footer ul li { display: block; width: 95%;}
 footer ul li a { 
   border-bottom: 3px solid #8eda00;
   display: block;
-  width: 95%;
+  width: 100%;
   color: #7dc100;
   text-align: center;
   padding: 15px 10px;
