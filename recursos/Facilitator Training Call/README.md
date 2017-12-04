@@ -1,59 +1,58 @@
-# Facilitator Training Call Plan
-With the objective of preparing the local facilitators to better execute the workshop, there will be two training calls which will go into the details of the information presented in the Mobilizer’s Handbook. 
+# Plano para Call de Treinamento de Facilitadores
+Com o objetivo de preparar os facilitadores locais para melhor executar o workshop, havero duas calls de treinamento que entrarão nos detalhes das informações apresentadas no Mobilizer's Handbook.
 
-The first call will focus on introducing the plan and workshop organization concerns: What are the objectives, why and how Mozilla is involved, logistics, marketing, budget and swap, post-event reporting.
+A primeira call focará em introduzir o plano e em questões de organização do workshop: Quais são os objetivos, como e porque a Mozilla está involvida, logística, marketing, orçamento e swap, relatos pós-evento.
 
-The second call focuses on how to run the workshop itself and technical details of how to teach Rust: Explaining the workshop flow and available reference material.
+A segunda call foca no conteúdo do workshop em si e em detalhes técnicos de como ensinar Rust: Explicar o fluxo do workshop e os materiais de referência disponíveis.
 
-# Roadshow Training Call Plan
+# Plano para Call de Treinamento para o Roadshow
 
-**Host:** Geraldo Barros
+**Anfitrião:** Geraldo Barros
 
-**Duration**: 1h15m
+**Duração**: 1h15m
 
-**Data and time**: *It will be set using Doodle*
+**Data e hora**: *Será marcada com o Doodle*
 
-**Tool**: [*Jitsi Meet Rust Roadshow room*](https://meet.jit.si/rustroadshow)
+**Ferramenta**: [*Sala no Jitsi Meet Rust Roadshow*](https://meet.jit.si/rustroadshow)
 
 **Agenda**
 
-- Welcome all and thank them for participating ask participants to introduce themselves in one minute
+- Boas vindas e agradecimentos por particitpar, pedir para participantes se apresentarem um de cada vez.
 - Mozilla
-- Why Rust is important for Mozilla
-- The roadshow plan and strategy
-- How works a Dive Into Rust workshop
-- Facilitating
+- Porque Rust é importante para a Mozilla
+- O plano e estratégia do roadshow
+- Como um workshop Mergulhando em Rust funciona
+- Facilitando
 - Marketing
-- Logistics
-- Budget
+- Logística
+- Orçamento
 - Swag
-- Reporting
-- Next call
+- Relatando
+- Próximo call
 
-# Technical Training Call Plan
+# Plano para o Call de Treinamento Técnico
 
-**Host:** Leonardo Yvens
+**Anfitrião:** Leonardo Yvens
 
-**Duration**: 1h30m
+**Duração**: 1h30m
 
-**Data and time**: *It will be set using Doodle*
+**Data e hora**: *Será marcada com o Doodle*
 
-**Tool**: [*Jitsi Meet Rust Roadshow room*](https://meet.jit.si/rustroadshow)
+**Ferramenta**: [*Jitsi Meet Rust Roadshow room*](https://meet.jit.si/rustroadshow)
 
 **Agenda**
 
-- Welcome all and thank them for participating, ask participants to introduce themselves in one minute (10min).
-- Talk about the goals of motivating the participants to consider Rust for their projects and giving them working knowledge so that they have confidence that they can quickly become proficient in Rust, and how the workshop tries to achieve those goals (5min).
-- Go over the relevant part of the handbook: (30min)
-- How to prepare the space and welcome participants.
-- What to put in the initial presentation:
-  - Why Rust, who is using it, what is unique about Rust, how it compares to other languages in general.
-- The general flow for exercises.
-- General hints for conducting the workshop and managing the time and the participants.
-- How to end the workshop.
-- Go over the reference material: (30min)
-- Talk about the book, Rust By Example, rustlings and exercism.
-- Glance over the exercises used in past workshops in Brazil.
-- Talk about how to teach difficult topics like ownership and pattern matching.
-- Questions and open discussion (15min).
-
+- Boas vindas e agradecimentos por particitpar, pedir para participantes se apresentarem um de cada vez. (10min)
+- Falar sobre os objetivos de motivar os participantes do workshop a considerar Rust para os seus projetos e dar a eles o conhecimento prático para que eles possam rapidamente se tornar proficientes em Rust, e como o workshop tenta atingir estes objetivos. (5min)
+- Passar pela seção relevante do Handbook: (30min)
+- Como preparar o espaço e dar boas vindas aos participantes.
+- O que colocar na apresentação inicial:
+  - Porque Rust, quem está usando, o que é único em Rust, como se compara com outras linguagens de maneira geral.
+- Fluxo geral dos exercícios.
+- Dicas gerais para conduzir o workshop e gerenciar o tempo e os participantes.
+- Como finalizar o workshop.
+- Falar do material de referência: (30min)
+- Falar do livro, Rust By Example, rustling e exercism.
+- Dar uma olhada nos exercícios usados em workshops passados no Brasil.
+- Falar de como ensinar tópicos difíceis como ownership e casamento de padrões.
+- Perguntas e discussões aberta. (15min)
