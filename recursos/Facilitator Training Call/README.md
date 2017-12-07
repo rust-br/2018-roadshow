@@ -1,34 +1,32 @@
 # Plano para Call de Treinamento de Facilitadores
-Com o objetivo de preparar os facilitadores locais para melhor executar o workshop, havero duas calls de treinamento que entrarão nos detalhes das informações apresentadas no Mobilizer's Handbook.
+Com o objetivo de preparar os facilitadores locais para melhor executar a oficina, haverá duas chamadas de treinamento que abordará detalhes e discussões das informações apresentadas no [Mobilizer's Handbook](https://github.com/rust-br/2018-roadshow/tree/master/recursos/Rust%20Brazil%20Mobilizers%E2%80%99%20Handbook).
 
-A primeira call focará em introduzir o plano e em questões de organização do workshop: Quais são os objetivos, como e porque a Mozilla está involvida, logística, marketing, orçamento e swap, relatos pós-evento.
+A primeira chamada focará em introduzir o plano e em questões de organização da oficina: Quais são os objetivos, como e porque a Mozilla está envolvida, logística, marketing, reports e atividades pós-evento.
 
-A segunda call foca no conteúdo do workshop em si e em detalhes técnicos de como ensinar Rust: Explicar o fluxo do workshop e os materiais de referência disponíveis.
+A segunda chamda focará no conteúdo da oficina em si e em detalhes técnicos de como ensinar Rust: Explicar o fluxo da oficina e os materiais de referência disponíveis.
 
-# Plano para Call de Treinamento para o Roadshow
+# Plano para chamada de treinamento
 
 **Anfitrião:** Geraldo Barros
 
 **Duração**: 1h15m
 
-**Data e hora**: *Será marcada com o Doodle*
+**Data e hora**: *Será marcada via Doodle*
 
 **Ferramenta**: [*Sala no Jitsi Meet Rust Roadshow*](https://meet.jit.si/rustroadshow)
 
 **Agenda**
 
-- Boas vindas e agradecimentos por particitpar, pedir para participantes se apresentarem um de cada vez.
+- Boas vindas e agradecimentos pela participação, pedir para participantes se apresentarem um de cada vez.
 - Mozilla
 - Porque Rust é importante para a Mozilla
 - O plano e estratégia do roadshow
-- Como um workshop Mergulhando em Rust funciona
+- Como funciona o "Mergulhando em Rust"
 - Facilitando
 - Marketing
 - Logística
-- Orçamento
-- Swag
-- Relatando
-- Próximo call
+- Reportando
+- Próxima chamada
 
 # Plano para o Call de Treinamento Técnico
 
