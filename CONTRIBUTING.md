@@ -21,7 +21,12 @@ Nós adotamos as [Diretrizes para participação na comunidade da Mozilla](https
 Há muitas formas de contribuir com a iniciativa, nós mapeamos algumas abaixo, mas você está convidado(a) a [líderar novas ideias e iniciativas](#ideias-e-iniciativas) com a nossa equipe.
 
 ### Oficina de Rust
-Estamos à procura de pessoas dedicadas e enérgicas para participar da equipe de mobilizadores. Aqui tem algumas das coisas divertidas que você fará nessa equipe:
+
+Nós estamos planejando um Rust Roadshow no Brasil que acontecerá de 1-4 de fevereiro de 2018, um roadshow são várias atividades e oficinas que acontecerem em vários lugares num mesmo período como uma semana ou mês.
+
+Nosso objetivo com esse roadshow é engajar mobilizadores Rust como você dando treinamento, recursos e mentoria e em conjunto com mobilizadores do Brasil criar o primeiro Rust Roadshow no Brasil com atividades e oficinas de Rust em diversos cantos do Brasil aumentando assim o alcance do Rust no país.
+
+***Pronto para juntar-se a nós?*** Você já está convidado! Estamos à procura de pessoas dedicadas e enérgicas para participar da equipe de mobilizadores. Aqui tem algumas das coisas divertidas que você fará nessa equipe:
 * Organizar, liderar e reportar oficinas de Rust na sua cidade de 2-4/fev/2018.
 * Participar de 2-3 chamadas e reuniões de treinamento com o [time](https://github.com/rust-br/2018-roadshow#time).
 #### Requisitos
