@@ -168,7 +168,7 @@ Nós criamos um kit de imagens, posters, capas e outros para você remixar e usa
 - [Poster A3 (colorido)](https://docs.google.com/a/mozilla-community.org/drawings/d/1y3jZUW5UzehOXBo_vfHmXVwtoZiotxMGjpxLekiIIDc/edit?usp=sharing)
 - [Wallpaper HD (1920x1080px)](https://drive.google.com/a/mozilla-community.org/file/d/1-lBZjNgzJWTdvFOzz0lPWequupQll9Xr/view?usp=sharing)
 
-Se preferir você pode fazer [download do pacote de arquivos vetoriais](./Design) caso você queira fazer algo e diferente. =)
+Se preferir você pode fazer [download do pacote de arquivos vetoriais](../Design) caso você queira fazer algo e diferente. =)
 
 # Reportando
 
