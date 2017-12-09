@@ -25,3 +25,5 @@ HeY, eu quero ser mobilizador Rust na minha região! Aqui tem minha inscrição:
 1. *Nós usaremos o seu e-mail vinculado ao GitHub para comunicação privada, se você deseja que o nosso time fale com você usando outro endereço de e-mail, adicione o endereço de e-mail abaixo desta mensagem.*
 
 2. *Ao inscrever-se você concorda com nosso [código de conduta](https://github.com/rust-br/2018-roadshow/blob/master/CODE_OF_CONDUCT.md) a fim de nos ajudar a criar uma experiência segura e positiva para todos em todas as atividades dessa iniciativa.*
+
+> _*Após enviar sua inscrição, aguarde um membro do time dar boas vindas e os próximos passos.*_
