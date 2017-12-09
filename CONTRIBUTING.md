@@ -36,9 +36,9 @@ Nosso objetivo com esse roadshow é engajar mobilizadores Rust como você dando 
 * Ser paciente
 #### Começando
 1. Preencher o formulário de inscrições ***(disponível em breve)*** com suas informações básicas e concordar com as responsabilidades e requisitos do mobilizador Rust.
-2. Participe das [chamadas de treinamento](/recursos/Chamada_de_Treinamento_do_Facilitador).
-3. Estudar o [Rust Brazil Mobilizers’ Handbook](/recursos/Rust Brazil Mobilizers’ Handbook).
-4. Organizar oficina de Rust na sua cidade seguindo as orientações fornecidas por meio das [chamadas de treinamento](/recursos/Chamada de Treinamento do Facilitador) e o [Rust Brazil Mobilizers’ Handbook](/recursos/Rust Brazil Mobilizers’ Handbook) do mobilizador Rust.
+2. Participe das [chamadas de treinamento](/recursos/Chamada de Treinamento do Facilitador/README.md).
+3. Estudar o [Rust Brazil Mobilizers’ Handbook](/recursos/Rust Brazil Mobilizers’ Handbook/README.md).
+4. Organizar oficina de Rust na sua cidade seguindo as orientações fornecidas por meio das [chamadas de treinamento](/recursos/Chamada de Treinamento do Facilitador/README.md) e o [Rust Brazil Mobilizers’ Handbook](/recursos/Rust Brazil Mobilizers’ Handbook/README.md) do mobilizador Rust.
 5. Apresentar planejamento da oficina organizada por meio de uma [nova issue](https://github.com/rust-br/2018-roadshow/issues/new) no GitHub.
 
 ### Desenvolvimento Web
