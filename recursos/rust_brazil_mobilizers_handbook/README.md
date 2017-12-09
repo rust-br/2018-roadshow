@@ -125,9 +125,9 @@ Exemplos de páginas de eventos passados:
 ## Comunicados
 
 Use a plataforma de evento que você está gerenciando as inscrições para enviar comunicados importantes por e-mail:
-* **Uma semana antes do evento e um dia antes do evento** — informe que o evento está próximo, os recursos que precisam trazer, tarefas pré evento (instalação de software?), endereço, data e hora e formas de chegar ao evento. [**[modelo]**](../Templates/email_pré-evento.md)
+* **Uma semana antes do evento e um dia antes do evento** — informe que o evento está próximo, os recursos que precisam trazer, tarefas pré evento (instalação de software?), endereço, data e hora e formas de chegar ao evento. [**[modelo]**](../templates/email_pré-evento.md)
 
-* **Pós evento** — agradeça por participarem da oficina, incentive que compartilhem o que criaram, entrem nos canais de comunicação da comunidade, anexe material do oficina e todos os links relevantes, peça que publiquem fotos no Twitter com a hashtag. [**[modelo]**](../Templates/email_pós-evento.md)
+* **Pós evento** — agradeça por participarem da oficina, incentive que compartilhem o que criaram, entrem nos canais de comunicação da comunidade, anexe material do oficina e todos os links relevantes, peça que publiquem fotos no Twitter com a hashtag. [**[modelo]**](../templates/email_pós-evento.md)
 
 ## Coffee-break
 
@@ -143,10 +143,15 @@ Para ter sucesso em seu coffee break sugerimos seguir algumas recomendações:
 
 Confira um cardápio indicado para um coffee break simples:
 –  Pães recheados
+
 –  Mini sanduíches
+
 –  Bolos frescos
+
 –  Sucos naturais
+
 –  Refrigerante
+
 Atente-se a necessidade de opções vegetarianas/veganas, e ao material descartável necessário.
 
 # Marketing
