@@ -1,5 +1,5 @@
 # Plano para Chamada de Treinamento do Facilitador
-Com o objetivo de preparar os facilitadores locais para melhor executar a oficina, haverá duas chamadas de treinamento que abordará detalhes e discussões das informações apresentadas no [Mobilizer's Handbook](../Rust Brazil Mobilizers’ Handbook).
+Com o objetivo de preparar os facilitadores locais para melhor executar a oficina, haverá duas chamadas de treinamento que abordará detalhes e discussões das informações apresentadas no [Mobilizer's Handbook](../rust_brazil_mobilizers_handbook).
 
 A primeira chamada focará em introduzir o plano e em questões de organização da oficina: Quais são os objetivos, como e porque a Mozilla está envolvida, logística, marketing, reports e atividades pós-evento.
 
