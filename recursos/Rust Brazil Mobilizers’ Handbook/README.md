@@ -126,7 +126,7 @@ Exemplos de páginas de eventos passados:
 
 Use a plataforma de evento que você está gerenciando as inscrições para enviar comunicados importantes por e-mail:
 **Uma semana antes do evento e um dia antes do evento** — informe que o evento está próximo, os recursos que precisam trazer, tarefas pré evento (instalação de software?), endereço, data e hora e formas de chegar ao evento. [**[modelo]**](https://docs.google.com/a/mozilla-community.org/document/d/1RDrTBQLVibV0a1B-ibj4XsaWw02msbR-69GWl8Sndj0/edit?usp=sharing)
-**Pós evento** — agradeça por participarem da oficina, incentive que compartilhem o que criaram, entrem nos canais de comunicação da comunidade, anexe material do oficina e todos os links relevantes, peça que publiquem fotos no Twitter com a hashtag. [**[modelo]**](https://docs.google.com/a/mozilla-community.org/document/d/1cAHawRH7Z8OxfmTjI7oIKm9gSZyxCA7lxp1ztJn3MGQ/edit?usp=sharing)
+**Pós evento** — agradeça por participarem da oficina, incentive que compartilhem o que criaram, entrem nos canais de comunicação da comunidade, anexe material do oficina e todos os links relevantes, peça que publiquem fotos no Twitter com a hashtag. [**[modelo]**](../Templates)
 
 ## Coffee-break
 
