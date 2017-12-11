@@ -1,10 +1,10 @@
 > _*Se você não se sente confortável em ter suas informações públicas aqui, lamentamos o inconveniente, isto faz parte dos nossos esforços em construir um projeto transparente, aberto e justo para todos, não se preocupe porque nós somos capazes de receber sua inscrição por e-mail via rust@mozillabr.org.*_
 
-HeY, eu quero ser mobilizador Rust na minha região! Aqui tem minha inscrição:
+Hey, eu quero ser mobilizador Rust na minha região! Aqui está a minha inscrição:
 
-**[ Nome e sobrenome ]** *Seu nome aqui*
+**[ Nome e sobrenome ]** *Seu nome aqui.*
 
-**[ Perfil no Mozillian.org ou Rustaceans.org ]** *Link aqui*
+**[ Perfil no Mozillian.org ou Rustaceans.org ]** *Link aqui.*
 
 **[ GitHub ]** *@seuuseraqui*
 
@@ -12,7 +12,7 @@ HeY, eu quero ser mobilizador Rust na minha região! Aqui tem minha inscrição:
 
 **[ Twitter ]** *https://twitter.com/@usuarioaqui*
 
-**[ Outros links ]** *Tem um blog ou outro link relevante para compartilhar? Se não, remova essa linha*
+**[ Outros links ]** *Tem um blog ou outro link relevante para compartilhar? Se não, remova essa linha.*
 
 **[ Cidade e Estado ]** *Nome da Cidade - SIGLA*
 
