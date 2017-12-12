@@ -3,7 +3,7 @@ Com o objetivo de preparar os facilitadores locais para melhor executar a oficin
 
 A primeira chamada focará em introduzir o plano e em questões de organização da oficina: Quais são os objetivos, como e porque a Mozilla está envolvida, logística, marketing, reports e atividades pós-evento.
 
-A segunda chamda focará no conteúdo da oficina em si e em detalhes técnicos de como ensinar Rust: Explicar o fluxo da oficina e os materiais de referência disponíveis.
+A segunda chamada focará no conteúdo da oficina em si e em detalhes técnicos de como ensinar Rust: Explicar o fluxo da oficina e os materiais de referência disponíveis.
 
 # Plano para chamada de treinamento
 
