@@ -5,7 +5,7 @@ A primeira chamada focará em introduzir o plano e em questões de organização
 
 A segunda chamada focará no conteúdo da oficina em si e em detalhes técnicos de como ensinar Rust: Explicar o fluxo da oficina e os materiais de referência disponíveis.
 
-# Plano para chamada de treinamento
+# Chamada do projeto
 
 **Anfitrião:** Geraldo Barros
 
@@ -28,7 +28,7 @@ A segunda chamada focará no conteúdo da oficina em si e em detalhes técnicos 
 - Reportando
 - Próxima chamada
 
-# Plano para o Call de Treinamento Técnico
+# Chamada técnica
 
 **Anfitrião:** Leonardo Yvens
 
