@@ -8,9 +8,9 @@ Hey, eu quero ser mobilizador Rust na minha região! Aqui está a minha inscriç
 
 **[ GitHub ]** *@seuuseraqui*
 
-**[ Telegram ]** *@seuuseraqui*
+**[ Telegram ]** *http://t.me/seuuseraqui*
 
-**[ Twitter ]** *https://twitter.com/@usuarioaqui*
+**[ Twitter ]** *https://twitter.com/usuarioaqui*
 
 **[ Outros links ]** *Tem um blog ou outro link relevante para compartilhar? Se não, remova essa linha.*
 
