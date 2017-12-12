@@ -11,7 +11,7 @@ A segunda chamada focará no conteúdo da oficina em si e em detalhes técnicos 
 
 **Duração**: 1h15m
 
-**Data e hora**: *Será marcada via Doodle*
+**Data e hora**: [Doodle](https://doodle.com/poll/95ndedr79xe86sn2)
 
 **Ferramenta**: [*Sala no Jitsi Meet Rust Roadshow*](https://meet.jit.si/rustroadshow)
 
@@ -34,7 +34,7 @@ A segunda chamada focará no conteúdo da oficina em si e em detalhes técnicos 
 
 **Duração**: 1h30m
 
-**Data e hora**: *Será marcada com o Doodle*
+**Data e hora**: [Doodle](https://doodle.com/poll/95ndedr79xe86sn2)
 
 **Ferramenta**: [*Jitsi Meet Rust Roadshow room*](https://meet.jit.si/rustroadshow)
 
