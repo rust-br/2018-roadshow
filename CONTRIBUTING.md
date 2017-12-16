@@ -21,6 +21,7 @@ Nós adotamos as [Diretrizes para participação na comunidade da Mozilla](https
 Há muitas formas de contribuir com a iniciativa, nós mapeamos algumas abaixo, mas você está convidado(a) a [líderar novas ideias e iniciativas](#ideias-e-iniciativas) com a nossa equipe.
 
 ### Oficina de Rust
+> **INSCRIÇÕES ENCERRADAS EM 22H07M DE 15-DEZ-17, SE VOCÊ NÃO TEVE TEMPO DE FAZER SUA INSCRIÇÃO PARTICIPE DA [CHAMADA DE TREINAMENTO DO FACILITADOR](https://github.com/rust-br/2018-roadshow/tree/master/recursos/chamada_de_treinamento_do_facilitador) PARA OBTER TREINAMENTO E OS PRÓXIMOS PASSOS.**
 
 Nós estamos planejando um Rust Roadshow no Brasil que acontecerá de 1-4 de fevereiro de 2018, um roadshow são várias atividades e oficinas que acontecerem em vários lugares num mesmo período como uma semana ou mês.
 
