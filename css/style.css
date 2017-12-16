@@ -12,27 +12,27 @@ body, html {
   height: 100%;
 }
 .wrapper {
-  box-sizing: border-box; 
-  height: 100%; 
+  box-sizing: border-box;
+  height: 100%;
 }
 a {
-  border-bottom: 3px solid #8eda00;
-  color: #333; 
-  text-decoration: none; 
+  border-bottom: 3px solid #3f5efb;
+  color: #333;
+  text-decoration: none;
 }
 a:hover {
-  color: #0068FF
+  color: #fc466b;
 }
 p {
-  font-weight: 200; 
+  font-weight: 200;
   font-size: 20px;
 }
 .container {
-  margin: 0 auto; 
-  max-width: 90%; 
-  padding: 75px 10px 50px; 
+  margin: 0 auto;
+  max-width: 90%;
+  padding: 75px 10px 50px;
   overflow: auto;
-  width: 700px; 
+  width: 700px;
 }
 .container > header {
   margin: 0 auto;
@@ -72,20 +72,20 @@ hr {
   border-bottom: 3px solid #0068FF;
 }
 
-.meta { 
-  font-family: 'Fira Sans', sans-serif; 
-  font-size: 11px; 
+.meta {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 11px;
   letter-spacing: .15em;
   text-transform: uppercase;
 }
 .meta a:hover {
-  color: #333;
+  color: #ffffff;
 }
 
 .inline-list {
-  list-style: none; 
+  list-style: none;
   line-height: 1em;
-  margin: 0; 
+  margin: 0;
   padding: 0;
 }
 .inline-list li {
@@ -93,11 +93,11 @@ hr {
 }
 
 footer ul li { display: block; width: 95%;}
-footer ul li a { 
-  border-bottom: 3px solid #8eda00;
+footer ul li a {
+  border-bottom: 3px solid #3f5efb;
   display: block;
   width: 100%;
-  color: #7dc100;
+  color: #000;
   text-align: center;
   padding: 15px 10px;
   text-decoration: none;
@@ -105,16 +105,18 @@ footer ul li a {
   font-size: 1.4em;
 }
 footer ul li a:hover {
-  background: #9ff400; 
+  font: #ffffff;
+  background: linear-gradient(to right, #fc466b, #3f5efb);
+  border-bottom: 3px solid #ffffff;
 }
 
 
 @media screen and (max-width: 550px) {
-  
-  footer { 
-    display: block; 
-    padding: 15px 25px; 
-    color: #0068FF; 
+
+  footer {
+    display: block;
+    padding: 15px 25px;
+    color: #0068FF;
     text-align: center;
     font-size: 1.4em;
     font-weight: bold;
