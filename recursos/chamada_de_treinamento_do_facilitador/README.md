@@ -7,13 +7,15 @@ A segunda chamada focará no conteúdo da oficina em si e em detalhes técnicos 
 
 # Chamada do projeto
 
-**Anfitrião:** Geraldo Barros
+**Responsável:** @barrosgeraldo
 
 **Duração**: 1h15m
 
-**Data e hora**: [Doodle](https://doodle.com/poll/95ndedr79xe86sn2)
+**Data e hora**: Quinta, 21 de dezembro, 18h00min-19h30min BRST | Adicione ao Google Agenda | [Doodle](https://doodle.com/poll/95ndedr79xe86sn2)
 
-**Ferramenta**: [*Sala no Jitsi Meet Rust Roadshow*](https://meet.jit.si/rustroadshow)
+**Onde**: [*Hangouts*](https://hangouts.google.com/hangouts/_/m32diiqgpvbxxmyr2l4fsxlykue) ou [*YouTube Ao Vivo*](http://youtu.be/4rlxB0_HD_I)
+
+**Notas**: [*Etherpad*](https://public.etherpad-mozilla.org/p/2018rustroadshowbrasil)
 
 **Agenda**
 
@@ -30,13 +32,15 @@ A segunda chamada focará no conteúdo da oficina em si e em detalhes técnicos 
 
 # Chamada técnica
 
-**Anfitrião:** Leonardo Yvens
+**Responsável:** @leodasvacas
 
-**Duração**: 1h30m
+**Duração**: 1h15m
 
-**Data e hora**: [Doodle](https://doodle.com/poll/95ndedr79xe86sn2)
+**Data e hora**: Quinta, 22 de dezembro, 18h00min-19h30min BRST | Adicione ao Google Agenda | [Doodle](https://doodle.com/poll/95ndedr79xe86sn2)
 
-**Ferramenta**: [*Jitsi Meet Rust Roadshow room*](https://meet.jit.si/rustroadshow)
+**Onde**: [*Hangouts*](https://hangouts.google.com/hangouts/_/nelimixd6nc3baftrhprdhxxeue) ou [*YouTube Ao Vivo*](http://youtu.be/1jF3cI6aFJI)
+
+**Notas**: [*Etherpad*](https://public.etherpad-mozilla.org/p/2018rustroadshowbrasil)
 
 **Agenda**
 
