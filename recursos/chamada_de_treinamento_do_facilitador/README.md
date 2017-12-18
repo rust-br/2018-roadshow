@@ -11,7 +11,7 @@ A segunda chamada focará no conteúdo da oficina em si e em detalhes técnicos 
 
 **Duração**: 1h15m
 
-**Data e hora**: Quinta, 21 de dezembro, 18h00min-19h30min BRST | Adicione ao Google Agenda | [Doodle](https://doodle.com/poll/95ndedr79xe86sn2)
+**Data e hora**: Quinta, 21 de dezembro, 18h00min-19h30min BRST | Adicione ao [Google Agenda](https://calendar.google.com/event?action=TEMPLATE&tmeid=NHQxczl2OHIzOGxkYm9nN2E4bThxbXMxMmMgZ2VyYWxkb2JhcnJvc0Btb3ppbGxhYnIub3Jn&tmsrc=geraldobarros%40mozillabr.org) | [Doodle](https://doodle.com/poll/95ndedr79xe86sn2)
 
 **Onde**: [*Hangouts*](https://hangouts.google.com/hangouts/_/m32diiqgpvbxxmyr2l4fsxlykue) ou [*YouTube Ao Vivo*](http://youtu.be/4rlxB0_HD_I)
 
