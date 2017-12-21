@@ -1,10 +1,10 @@
 Heey,
 
-Agradeço novamente pela presença no sábado em nosso workshop! Espero que você tenha aproveitado, se divertido e que o encontro possa ter somado aprendizados e criado oportunidades à você!
+Agradeço novamente pela presença no sábado em nossa oficina! Espero que você tenha aproveitado, se divertido e que o encontro possa ter somado aprendizados e criado oportunidades à você!
 
 **Pesquisa de Satisfação**
-A única forma de continuar organizando workshops incríveis como este e saber se você realmente gostou é por meio do nosso formulário de impacto (https://mzl.la/howwasit). Não leva nem 30 segundos para preenchê-lo e nos ajuda muito!
-(lá pergunta o nome do "Rep", que é o nome do representante que organizou o workshop, selecione "Geraldo Barros").
+A única forma de continuar organizando oficinas incríveis como esta e saber se você realmente gostou por meio do nosso formulário de impacto (https://mzl.la/howwasit). Não leva nem 30 segundos para preenchê-lo e nos ajuda muito!
+(na pergunta sobre o nome do "Rep", que é o nome do representante que organizou a oficina, selecione "Geraldo Barros").
 
 **Continue conectado ao mundo #Rust**
 - Site oficial da linguagem Rust: https://www.rust-lang.org/pt-BR
@@ -19,7 +19,7 @@ A única forma de continuar organizando workshops incríveis como este e saber s
 - Reddit: https://www.reddit.com/r/rust
 
 **Mozilla no Eventbrite e Discourse**
-Huuum, quer saber quando será o próximo workshop da Mozilla? Rá!
+Huuum, quer saber quando será a próxima oficina da Mozilla? Rá!
 - Próximos eventos estão no Eventbrite: https://mozillabrasil.eventbrite.com.br
 - Junte-se aos nossos esforços comunitários para criar uma Internet melhor: https://discourse.mozilla-community.org/c/mozilla-brasil
 - Twitter: https://twitter.com/mozillabrasil
@@ -27,7 +27,7 @@ Huuum, quer saber quando será o próximo workshop da Mozilla? Rá!
 
 **Tweeeet! #Rustlang**
 
-Não esqueça de mostrar o que você fez durante o workshop no Twitter! Use #rustlang e mostre as coisas incríveis que você criou, seja o seu perfil no Rustaceans, um crates.io, ou até mesmo o seu repositório de projetos!
+Não esqueça de mostrar o que você fez durante a oficina no Twitter! Use #rustlang e mostre as coisas incríveis que você criou, seja o seu perfil no Rustaceans, um crates.io, ou até mesmo o seu repositório de projetos!
 
 Até a próxima,
 
