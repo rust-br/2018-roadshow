@@ -2,9 +2,9 @@ Rust Roadshow Brasil 2018 🇧🇷
 ======================
 ***Bem-vindo! :tada: Bienvenido! :confetti_ball: Welcome! :balloon::balloon::balloon:***
 
-Nós garantiremos que mais programadores conheçam, usem e evangelizem Rust no Brasil por meio do engajamento de mobilizadores e organização comunitária de um circuito de oficinas em 2018.
+Nossa missão é garantir que mais programadores conheçam, usem e evangelizem a linguagem Rust no Brasil por meio do engajamento de mobilizadores e organização comunitária em um circuito de oficinas em 2018.
 
-***Este documento (o arquivo README.md) é um hub para fornecer algumas informações sobre a iniciativa. Navegue para uma das seções abaixo, ou simplesmente role para baixo para descobrir mais.***
+***Este documento (o arquivo README.md) é um hub para fornecer algumas informações sobre a iniciativa. Navegue em uma das seções abaixo, ou simplesmente role para baixo para descobrir mais.***
 
 ## Índice
 * [Bem-vindo!](#rust-roadshow-brasil-2018-)
@@ -16,18 +16,18 @@ Nós garantiremos que mais programadores conheçam, usem e evangelizem Rust no B
 * [Contato](#contato)
 * [Glossário](#glossário)
 
-# O que nós estamos fazendo? E porque?
-Este experimento é o nosso próximo passo após organizar [3 oficinas de Rust no Brasil](https://www.eventbrite.com.br/o/mozilla-brasil-14167163781) apoiadas pela Mozilla e com envolvimento direto de voluntários das comunidades Mozilla e Rust.
+# O que nós estamos fazendo? E por que?
+Após organizarmos [4 oficinas de Rust no Brasil](https://www.eventbrite.com.br/o/mozilla-brasil-14167163781) apoiadas pela Mozilla e com envolvimento direto de voluntários das comunidades Mozilla e Rust, este experimento é o nosso próximo passo.
 
-A [Mozilla foi a primeira a investir em Rust](https://research.mozilla.org/rust/) e há anos empodera e usa a linguagem no [Servo](https://github.com/servo/servo) e no Firefox. A Mozilla está apostando em Rust para inovar o produto e [garantir segurança de ponta no navegador](https://blog.mozilla.org/firefox/put-trust-rust-shipping-now-firefox/). Não restam dúvidas de que Rust é uma linguagem importante para o futuro da web pois a faz segura, rápida e incrível.
+A [Mozilla foi a primeira a investir em Rust](https://research.mozilla.org/rust/), há anos empodera e usa a linguagem no [Servo](https://github.com/servo/servo) e no Firefox e está apostando na linguagem Rust para inovar seus produtos e [garantir segurança de ponta em seu navegador](https://blog.mozilla.org/firefox/put-trust-rust-shipping-now-firefox/). Não restam dúvidas de que Rust é importante para o futuro da web pois a faz segura, rápida e incrível.
 
-Assim como a Mozilla está radiante ao usar Rust para inovar o Firefox nós queremos garantir que mais programadores **conheçam, usem e evangelizem Rust no Brasil**. Nós iremos apoiar um grupo de programadores Rust durante o experimento que empoderará mobilizadores a criarem coisas incríveis com Rust por meio de oficinas pequenas, locais e apoiadas pela Mozilla ao ensinar e engajar programadores em uma linguagem de programação de sistemas que roda incrivelmente rápido, previne falhas de segmentação, e garante segurança entre threads.
+Assim como a Mozilla está radiante em usar Rust para inovar o Firefox, nós queremos garantir que mais programadores **conheçam, usem e evangelizem Rust no Brasil**. Apoiaremos um grupo de programadores Rust durante o experimento ***2018 Rust Mobilizers Experiment*** que empoderará mobilizadores a criarem coisas incríveis com Rust por meio de oficinas pequenas, locais e apoiadas pela Mozilla ao ensiná-los e engajá-los em uma linguagem de programação de sistemas que é incrivelmente rápida, previne falhas de segmentação e garante segurança entre threads.
 
 # Participe
-*Estamos ansiosos para ver você mergulhar em Rust conosco e criar coisas incríveis em um de nossos workshops pelo Brasil!*
+*Estamos ansiosos para ver você mergulhar em Rust conosco e criar coisas incríveis em uma de nossas oficinas pelo Brasil!*
 
 ## Onde
-**[Clique aqui](https://rust-br.github.io/2018-roadshow/) para encontrar um workshop próximo de você!**
+**[Clique aqui](https://rust-br.github.io/2018-roadshow/) para encontrar uma oficina próxima de você!**
 
 ## Você aprenderá
 - O que é Rust (o que é, como funciona, benefícios, casos, bibliotecas, aplicações, benchmarks);
@@ -38,17 +38,18 @@ Assim como a Mozilla está radiante ao usar Rust para inovar o Firefox nós quer
 - Structs e enums;
 - Paralelismo: Um minerador de bitcoins paralelo;
 - Envolvendo-se na comunidade Rust.
+
 ## Formato
-**Mão na massa.** Você vai aprender com os mobilizadores, em grupos, experimentando, codando, tirando dúvidas e dando feedback.
+**Mão na massa.** Você aprenderá com os mobilizadores, em grupo, experimentando, codando, tirando dúvidas e dando feedback.
 
 ## Público
-Esse workshop é para você que é programador ou desenvolvedor, e já sabe programar em pelo menos uma linguagem como C e Python por exemplo.
+Essa oficina é para você que é programador ou desenvolvedor, e já sabe programar em pelo menos uma linguagem como C ou Python, por exemplo.
 
 ## Material
-Basta que você leve seu notebook, carregador e, se quiser, material para anotação :)
+Basta que você leve seu notebook, carregador e, se quiser, material para anotação. :)
 
 # Contribua
-Se você quer contribuir com nosso experimento, dê uma olhada no [guia de contribuidores](CONTRIBUTING.md) para encontrar as áreas existentes e como sugerir novas áreas e formas de contribuição.
+Se você quiser contribuir com nosso experimento, dê uma olhada no [guia de contribuidores](CONTRIBUTING.md) para encontrar as áreas existentes e como sugerir novas áreas e formas de contribuição.
 
 # Código de Conduta
 Nós adotamos as [Diretrizes para participação na comunidade da Mozilla](https://www.mozilla.org/pt-BR/about/governance/policies/participation/) como **nosso principal código de conduta e exigimos a todos que participam a concordar e aderir a estas** [**Diretrizes para Participação na Comunidade**](https://www.mozilla.org/pt-BR/about/governance/policies/participation/) a fim de nos ajudar a criar uma experiência segura e positiva para todos em todas as atividades dessa iniciativa.
@@ -60,10 +61,10 @@ A time do experimento tem a responsabilidade de manter o projeto, documentar tod
 - Cynthia Pereia / [@cynthiapereira](https://github.com/cynthiapereira)
 - Thiago Policena / [@thiagopolicena](https://github.com/thiagopolicena)
 - Leonardo Yvens / [@leodasvacas](https://github.com/leodasvacas)
-- Geraldo Barros / [@geraldobarros_](https://github.com/barrosgeraldo)
+- Geraldo Barros / [@barrosgeraldo](https://github.com/barrosgeraldo)
 
 # Contato
-Você pode falar com qualquer membro da equipe diretamente ou se preferir pode contactar toda a equipe via rust (at) mozillabr.org ou ainda falar com toda a comunidade [Rust Lang BR](https://t.me/rustlangbr) via Telegram para obter apoio rapidamente.
+Você pode falar com qualquer membro da equipe diretamente ou se preferir pode contatar toda a equipe via rust (at) mozillabr.org ou ainda falar com toda a comunidade [Rust Lang BR](https://t.me/rustlangbr) via Telegram para obter apoio rapidamente.
 
 # Glossário
-- **Hub**: central de informações
+- **Hub**: Central de informações
