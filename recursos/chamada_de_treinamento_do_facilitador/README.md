@@ -17,6 +17,8 @@ A segunda chamada focará no conteúdo da oficina em si e em detalhes técnicos 
 
 **Notas**: [*Etherpad*](https://public.etherpad-mozilla.org/p/2018rustroadshowbrasil)
 
+**Apresentação de Slides**: [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vROHKZzd7Nk78OqfmnMFeBEjGKTPDrETrw4KUXGCUtK1G5yq8gFA9sO6K53kc22mQP3pF2FUac_8spP/pub?start=false&loop=false&delayms=3000)
+
 **Agenda**
 
 - Boas vindas e agradecimentos pela participação, pedir para participantes se apresentarem um de cada vez.
