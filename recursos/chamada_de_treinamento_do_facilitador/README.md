@@ -1,4 +1,4 @@
-# Plano para Chamada de Treinamento do Facilitador
+# Chamada de Treinamento do Facilitador
 Com o objetivo de preparar os facilitadores locais para melhor executar a oficina, haverá duas chamadas de treinamento que abordará detalhes e discussões das informações apresentadas no [Mobilizer's Handbook](../rust_brazil_mobilizers_handbook).
 
 A primeira chamada focará em introduzir o plano e em questões de organização da oficina: Quais são os objetivos, como e porque a Mozilla está envolvida, logística, marketing, reports e atividades pós-evento.
@@ -13,7 +13,7 @@ A segunda chamada focará no conteúdo da oficina em si e em detalhes técnicos 
 
 **Data e hora**: Quinta, 21 de dezembro, 18h00min-19h30min BRST | Adicione ao [Google Agenda](https://calendar.google.com/event?action=TEMPLATE&tmeid=NHQxczl2OHIzOGxkYm9nN2E4bThxbXMxMmMgZ2VyYWxkb2JhcnJvc0Btb3ppbGxhYnIub3Jn&tmsrc=geraldobarros%40mozillabr.org) | [Doodle](https://doodle.com/poll/95ndedr79xe86sn2)
 
-**Onde**: [*Youtube*](https://youtu.be/4rlxB0_HD_I?t=746)
+**Onde**: [*Youtube*](https://youtu.be/4rlxB0_HD_I?t=746) ou [Air Mozilla](https://air.mozilla.org/project-call-2018-rust-roadshow-brazil/)
 
 **Notas**: [*Etherpad*](https://public.etherpad-mozilla.org/p/2018rustroadshowbrasil)
 
