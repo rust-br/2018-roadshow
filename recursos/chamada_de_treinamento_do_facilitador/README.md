@@ -44,7 +44,7 @@ A segunda chamada focará no conteúdo da oficina em si e em detalhes técnicos 
 
 **Notas**: [*Etherpad*](https://public.etherpad-mozilla.org/p/2018rustroadshowbrasil#lineNumber=131)
 
-**Apresentação de Slides**: [*Google Slides*](https://goo.gl/aGHwcu)
+**Apresentação de Slides**: [*Google Slides*](https://docs.google.com/presentation/d/e/2PACX-1vTdsv3U_-L_rqznjBcx3EZuTcl0zeC_SrirYmwFxu6X7nu9z2FgUqjtsaWfkEeM0ct03F9UFJBz4rBL/pub?start=false&loop=false&delayms=60000)
 
 **Agenda**
 
