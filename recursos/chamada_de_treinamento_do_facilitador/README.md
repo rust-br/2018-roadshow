@@ -40,7 +40,7 @@ A segunda chamada focará no conteúdo da oficina em si e em detalhes técnicos 
 
 **Data e hora**: Quinta, 22 de dezembro, 18h00min-19h30min BRST | Adicione ao [Google Agenda](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mm5jZm92ZzdsbG80bDBodmgzaWw4aGJwYXAgZ2VyYWxkb2JhcnJvc0Btb3ppbGxhYnIub3Jn&tmsrc=geraldobarros%40mozillabr.org) | [Doodle](https://doodle.com/poll/95ndedr79xe86sn2)
 
-**Onde**: [*Hangouts*](https://hangouts.google.com/hangouts/_/haqkbgo2jzarzkeu24xy3uu2aye) ou [*YouTube Ao Vivo*](http://youtu.be/1jF3cI6aFJI)
+**Onde**: [*YouTube*](https://youtu.be/1jF3cI6aFJI?t=587) ou [*Air Mozilla*](https://air.mozilla.org/tech-call-rust-roadshow-brasil-2018/)
 
 **Notas**: [*Etherpad*](https://public.etherpad-mozilla.org/p/2018rustroadshowbrasil#lineNumber=131)
 
