@@ -52,7 +52,7 @@ article {
   padding: 20px;
 }
 article::before {
-  color: #8eda00;
+  color: 3f5efb;
   content: '\2B27\2B43\2B28';
   font-size: 24px;
   position: relative;
@@ -60,7 +60,7 @@ article::before {
   left: -25px;
 }
 article::after {
-  color: #8eda00;
+  color: 3f5efb;
   content: '\2B26\2B37\2B25';
   float: right;
   font-size: 44px;
