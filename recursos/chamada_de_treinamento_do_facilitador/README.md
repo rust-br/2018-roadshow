@@ -62,3 +62,22 @@ A segunda chamada focará no conteúdo da oficina em si e em detalhes técnicos 
 - Dar uma olhada nos exercícios usados em workshops passados no Brasil.
 - Falar de como ensinar tópicos difíceis como ownership e casamento de padrões.
 - Perguntas e discussões aberta. (15min)
+
+# Chamada Pós-Evento
+
+**Responsável:** @barrosgeraldo
+
+**Duração**: 1h
+
+**Data e hora**: [Doodle](https://doodle.com/poll/e2xvz7er56z35gza)
+
+**Onde**: [*Hangout*](#)
+
+**Notas**: [*Etherpad*](https://public.etherpad-mozilla.org/p/2018rustroadshowbrasil#lineNumber=247)
+
+**Agenda**
+
+- Bem vindo (novamente)!
+- Histórico do projeto
+- Feedback
+- Próximos passos
