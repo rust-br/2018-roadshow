@@ -69,7 +69,7 @@ A segunda chamada focará no conteúdo da oficina em si e em detalhes técnicos 
 
 **Duração**: 1h
 
-**Data e hora**: [Doodle](https://doodle.com/poll/e2xvz7er56z35gza)
+**Data e hora**: Quarta, 28 de fevereiro, 21h00min-22h00min BRT | Adicione ao [Google Agenda](#) | [Doodle](https://doodle.com/poll/e2xvz7er56z35gza)
 
 **Onde**: [*Hangout*](#)
 
