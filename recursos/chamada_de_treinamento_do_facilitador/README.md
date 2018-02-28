@@ -71,7 +71,7 @@ A segunda chamada focará no conteúdo da oficina em si e em detalhes técnicos 
 
 **Data e hora**: Quarta, 28 de fevereiro, 21h00min-22h00min BRT | Adicione ao [Google Agenda](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGl0OHFlMDNndm5qYjJvOXV2MHM2bWJqaDMgZ2VyYWxkb2JhcnJvc0Btb3ppbGxhYnIub3Jn&tmsrc=geraldobarros%40mozillabr.org) | [Doodle](https://doodle.com/poll/e2xvz7er56z35gza)
 
-**Onde**: [*Hangout*](#) | [*YouTube*](#) | [*Air Mozilla*](#)
+**Onde**: [*Hangouts*](https://hangouts.google.com/hangouts/_/fj53qh3o4vey5nqtyq3gprsopae) | [*YouTube*](http://youtu.be/nxLLnQ6jlsg) | [*Air Mozilla*](#)
 
 **Notas**: [*Etherpad*](https://public.etherpad-mozilla.org/p/2018rustroadshowbrasil#lineNumber=247)
 
